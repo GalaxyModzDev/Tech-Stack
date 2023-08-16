@@ -6,7 +6,7 @@
 ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
 
 ## API: 
-![Auth0](https://auth0.com/?utm_source=oss&utm_medium=gp&utm_campaign=oss)
+![Auth0](https://cdn.auth0.com/oss/badges/a0-badge-dark.png)
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
 
 ## Backend:
