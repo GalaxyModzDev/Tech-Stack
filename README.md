@@ -11,4 +11,4 @@
 
 ## Backend:
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-<img src="https://github.com/GalaxyModzYT/Tech-Stack/blob/b58b8aaabc252609b776a6cb24aa3f1433eb0f88/Kalion%20Cloud%20By%20Galaxy%20Modz.png" width="480" height="240">
+<img src="https://github.com/GalaxyModzYT/Tech-Stack/blob/b58b8aaabc252609b776a6cb24aa3f1433eb0f88/Kalion%20Cloud%20By%20Galaxy%20Modz.png" width="64" height="32">
